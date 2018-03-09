@@ -2,3 +2,8 @@ The libraries in each application were classified based on their functionality. 
 overview of how each application is built and what category of libraries are more prevalent and
 in use by developers. Most applications consisted of a large number of development libraries
 and user-interface libraries.
+
+Each library was categorized into 4 broad sections. Critical which are the libraries at the tip of the iceberg, 
+ready to crash and burn at any moment. Severe for those which are serious and need to be looked into yet are not exploitable 
+by just any layman. Average which potentially could be exploited in the distant future and are mediocre threats. And finally 
+Warnings which are not of much concern compared to the former, yet still exist.
