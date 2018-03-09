@@ -1,0 +1,5 @@
+While some libraries have relatively miniature issues like the usage of weak java
+hash codes, a particular few present critical vulnerabilities that could impact the
+entire application. In particular, the ECB mode being used in the Fabric library
+has been known to be breakable with minute effort. Yet it is repeatedly
+implemented in a large number of Mobile Money applications.
