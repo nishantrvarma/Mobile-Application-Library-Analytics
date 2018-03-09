@@ -1,0 +1,5 @@
+Third party library reuse is highly prevalent among applications in the same space. It is inferred
+from this that almost all of these applications may share certain features when it comes to their
+security and functionality. We can also say that as the number of external modules in an
+application increases, it potentially becomes increasingly insecure.
+
